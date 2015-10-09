@@ -1,0 +1,17 @@
+[
+  {
+    "path": "myresource",
+    "methods": ["GET"]
+  },
+
+  {
+    "path": "(?i)users/([0-9a-f]{32})?",
+    "methods": ["GET"]
+  },
+
+  {
+    "path": "users",
+    "methods": ["POST"]
+  }
+
+]

@@ -1,6 +1,6 @@
 package edu.upc.eetac.dsa.beeter.auth;
 
-import edu.upc.eetac.dsa.beeter.DAO.AuthTokenDAOImpl;
+import edu.upc.eetac.dsa.beeter.dao.AuthTokenDAOImpl;
 import edu.upc.eetac.dsa.beeter.entity.Role;
 
 import javax.annotation.Priority;

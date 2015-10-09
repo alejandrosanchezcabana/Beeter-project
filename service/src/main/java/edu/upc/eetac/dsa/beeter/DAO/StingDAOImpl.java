@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.beeter.DAO;
+package edu.upc.eetac.dsa.beeter.dao;
 
 import edu.upc.eetac.dsa.beeter.entity.Sting;
 import edu.upc.eetac.dsa.beeter.entity.StingCollection;

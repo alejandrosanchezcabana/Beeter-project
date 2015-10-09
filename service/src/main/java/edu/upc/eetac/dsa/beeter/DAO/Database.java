@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.beeter.DAO;
+package edu.upc.eetac.dsa.beeter.dao;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
