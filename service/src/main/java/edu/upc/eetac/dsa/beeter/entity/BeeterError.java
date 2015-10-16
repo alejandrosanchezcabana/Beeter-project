@@ -1,8 +1,11 @@
 package edu.upc.eetac.dsa.beeter.entity;
 
+import com.fasterxml.jackson.annotation.JsonInclude;
+
 /**
  * Created by Alex on 30/9/15.
  */
+@JsonInclude(JsonInclude.Include.NON_NULL)
 public class BeeterError {
     private int status;
     private String reason;

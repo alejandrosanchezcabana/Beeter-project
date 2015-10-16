@@ -8,10 +8,13 @@
     "path": "(?i)users/([0-9a-f]{32})?",
     "methods": ["GET"]
   },
-
   {
     "path": "users",
     "methods": ["POST"]
-  }
+  },
 
+  {
+    "path": "(?i)stings/?([0-9a-f]{32})?",
+    "methods": ["GET"]
+  }
 ]
